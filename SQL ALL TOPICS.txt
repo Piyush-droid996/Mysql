@@ -1,0 +1,31 @@
+Create,Insert,Update,Delete
+PK, FK, Check, Unique, Not Null
+Alter,Truncate,Drop
+Grant, Revoke, 
+Rollback, Commit , Save Point
+Auto Increment
+Copying Table with data
+Copying Structure
+Where 
+OR, AND
+IN, NOT IN
+NULL, NOT NULL
+BETWEEN
+DISTINCT
+InBuilt Functions - Min, Max, Count, Average
+Order By
+Like using % , _
+Limit
+Group By
+Joins
+Subquery/Nested query
+Exists / Not Exists
+Union, Intersection, Minus
+View
+Temporary Table
+Index
+Function
+Procedure
+Exception Handling
+Loops - While Do, Repeat, Loop, Cursor
+Trigger
